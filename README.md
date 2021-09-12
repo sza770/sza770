@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sza770
-- 👀 I’m interested in coding and web debloping
+- 👀 I’m interested in coding and web developing
 - 🌱 I’m currently learning java script (front end)
 
 
