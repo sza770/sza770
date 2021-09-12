@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sza770
 - 👀 I’m interested in coding and web developing
-- 🌱 I’m currently learning java script (front end)
+- 🌱 I’m currently learning full stack (now practising front end)
 
 
 <!---
